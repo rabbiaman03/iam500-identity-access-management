@@ -26,7 +26,7 @@ Coursework from **IAM500 (Fall 2026, Seneca Polytechnic)**. These labs cover the
 | 3 | **Azure RBAC and account protection** | Entra ID sign-in to an Azure VM, role assignment lifecycle, Smart Lockout tuning | [Open](week03/README.md) |
 | 4 | **Secrets and threat protection** | Managed identity with Key Vault, Defender for Cloud Apps (app risk, unsanctioning Dropbox), Identity Protection policies and alerts | [Open](week04/README.md) |
 | 5 | **Application identity** | App registration, redirect URIs, exposed API scopes, enterprise app assignment, admin consent | [Open](week05/README.md) |
-| 6 | **Identity governance** | Entitlement-management catalog with delegated owner, access reviews, **Privileged Identity Management** (just-in-time roles with MFA and justification) | [Open](week06/README.md) |
+| 6 | **Identity governance** | Entitlement-management catalog with delegated owner, guest and internal access reviews, **Privileged Identity Management** (eligible roles, approval, MFA and just-in-time activation) | [Open](week06/README.md) |
 
 ## 🧩 Concepts demonstrated
 
