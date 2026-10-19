@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-Coursework from **IAM500 (Fall 2026, Seneca Polytechnic)**. These labs cover the full identity lifecycle in a Microsoft cloud tenant: provisioning users and groups, federating external identities, enforcing MFA, controlling access with RBAC, protecting secrets, and governing applications. Each week has a report with an objective, step-by-step screenshots and key takeaways.
+Coursework from **IAM500 (Fall 2026, Seneca Polytechnic)**. These labs cover the full identity lifecycle in a Microsoft cloud tenant: provisioning users and groups, federating external identities, enforcing MFA, controlling access with RBAC, protecting secrets, governing applications, and enforcing just-in-time privileged access. Each week has a report with an objective, step-by-step screenshots and key takeaways.
 
 ## 🔬 Labs
 
@@ -26,6 +26,7 @@ Coursework from **IAM500 (Fall 2026, Seneca Polytechnic)**. These labs cover the
 | 3 | **Azure RBAC and account protection** | Entra ID sign-in to an Azure VM, role assignment lifecycle, Smart Lockout tuning | [Open](week03/README.md) |
 | 4 | **Secrets and threat protection** | Managed identity with Key Vault, Defender for Cloud Apps (app risk, unsanctioning Dropbox), Identity Protection policies and alerts | [Open](week04/README.md) |
 | 5 | **Application identity** | App registration, redirect URIs, exposed API scopes, enterprise app assignment, admin consent | [Open](week05/README.md) |
+| 6 | **Identity governance** | Entitlement-management catalog with delegated owner, access reviews, **Privileged Identity Management** (just-in-time roles with MFA and justification) | [Open](week06/README.md) |
 
 ## 🧩 Concepts demonstrated
 
@@ -35,6 +36,7 @@ Coursework from **IAM500 (Fall 2026, Seneca Polytechnic)**. These labs cover the
 | **Authorization** | Entra ID roles, Azure RBAC, least privilege, role lifecycle (assign and remove) |
 | **Governance** | Group-based access, dynamic membership rules, licensing |
 | **Workload identity** | Managed identities, Azure Key Vault, app registrations, OAuth 2.0 scopes, admin consent |
+| **Identity governance** | Entitlement management, access reviews, PIM just-in-time privileged access |
 | **Threat protection** | Identity Protection risk policies, Defender for Cloud Apps (CASB) |
 
 ---
